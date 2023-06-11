@@ -1,8 +1,9 @@
 /*
 class AgeToWristBand
     main()
+            int age = 0
 			output “What is your age?”
-			input num age
+			input age
 			if age >= 21 then
 			    output “You get a wristband.”
 		end If
